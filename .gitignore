@@ -43,4 +43,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-lib/Raspberry Pi/serviceAccountKey.json
+#ignore whole raspberry pi folder
+raspberry_pi/
