@@ -48,3 +48,5 @@ app.*.map.json
 
 #ignore google-services.json
 /android/app/google-services.json
+
+lib/Raspberry_Pi/serviceAccountKey.json
