@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/release
 
 #ignore whole raspberry pi folder
-raspberry_pi/
+lib/Raspberry_Pi
