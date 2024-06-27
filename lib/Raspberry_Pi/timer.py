@@ -5,7 +5,7 @@ from firebase_admin import firestore
 from datetime import datetime, timedelta
 
 # Use a service account
-cred = credentials.Certificate('C:\\Users\\shah1\\Desktop\\Mini-Project Folders\\Sem IV Mini-Project\\ha_app\\lib\\Raspberry Pi\\serviceAccountKey.json')
+cred = credentials.Certificate('C:\\Users\\shah1\\Desktop\\Mini-Project Folders\\Sem IV Mini-Project\\ha_app\\lib\\Raspberry_Pi\\serviceAccountKey.json')
 firebase_admin.initialize_app(cred)
 
 # Get a Firestore client
